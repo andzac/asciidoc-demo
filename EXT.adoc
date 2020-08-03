@@ -1,0 +1,3 @@
+== This is an addition ==
+This content is not included into the main document but is nested using the include
+directive.
