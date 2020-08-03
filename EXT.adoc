@@ -1,3 +1,8 @@
 == This is an addition ==
 This content is not included into the main document but is nested using the include
 directive.
+
+# tag::enable[]
+This section should be included!
+# end::enable[]
+This section will not be included!
