@@ -18,7 +18,7 @@ Suspendisse dictum massa non odio placerat, eget pharetra velit mollis.
 Donec in volutpat justo. Pellentesque mattis mattis consequat. Nunc eu posuere nibh. 
 Proin eget dignissim dolor, sit amet aliquet lorem. 
 
-
-
 include::includes/ext.adoc[tags=enable]
 
+== Code snippet section ==
+include::includes/hello-java.adoc[]
