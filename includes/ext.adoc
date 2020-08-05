@@ -1,4 +1,5 @@
 # tag::enable[]
 This section should be included!
+And is coming from a different file
 # end::enable[]
 This section will not be included!

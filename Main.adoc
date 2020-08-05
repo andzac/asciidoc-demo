@@ -20,5 +20,5 @@ Proin eget dignissim dolor, sit amet aliquet lorem.
 
 
 
-include::EXT.adoc[tags=enable]
+include::includes/ext.adoc[tags=enable]
 
